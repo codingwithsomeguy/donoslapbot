@@ -1,0 +1,7 @@
+.*.swp
+.*.swo
+*.core
+v0
+
+donations.json
+pyboard.py
